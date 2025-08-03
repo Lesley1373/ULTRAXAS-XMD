@@ -1,7 +1,7 @@
 {
-  "name": "ultra",
-  "version": "2.1.0",
-  "description": "Advanced WhatsApp bot using Baileys",
+  "name": "vievo",
+  "version": "3.1.0",
+  "description": "Advanced WhatsApp bot by ENGOKE TECH using Baileys",
   "main": "index.js",
   "type": "commonjs",
   "engines": {
@@ -22,7 +22,7 @@
     "bmwxmd",
     "quantum",
     "whatsapp-bot",
-    "ultraxas"
+    "engoke"
   ],
   "author": "ultraxas",
   "license": "ISC",
