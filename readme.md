@@ -1,13 +1,13 @@
 ![ULTRAXAS XMD Logo](https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg)
 
-**ULTRAXAS XMD** is a powerful WhatsApp bot designed for easy deployment and session management.  
+**VIEVO XMD** is a powerful WhatsApp bot designed for easy deployment and session management.  
 Get started with one-click Heroku deployment, session generation, and live GitHub analytics—all wrapped in an interactive, animated web experience.
 
 ---
 
 ## 🚀 Quick Deploy
 
-Deploy ULTRAXAS XMD to Heroku in one click!  
+Deploy VIEVO XMD to Heroku in one click!  
 [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?logo=heroku&style=for-the-badge)](https://ultraxas-xmd-verification.onrender.com)
 
 ---
