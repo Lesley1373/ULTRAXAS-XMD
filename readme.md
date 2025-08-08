@@ -1,25 +1,25 @@
-![ULTRAXAS XMD Logo](https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg)
+![ULTRAXAS XMD Logo](https://images.pexels.com/photos/8566466/pexels-photo-8566466.jpeg)
 
-**VIEVO XMD** is a powerful WhatsApp bot designed for easy deployment and session management.  
+**ENGOKE XMD** is a powerful WhatsApp bot designed for easy deployment and session management.  
 Get started with one-click Heroku deployment, session generation, and live GitHub analytics—all wrapped in an interactive, animated web experience.
 
 ---
 
 ## 🚀 Quick Deploy
 
-Deploy VIEVO XMD to Heroku in one click!  
+Deploy ENGOKE XMD to Heroku in one click!  
 [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?logo=heroku&style=for-the-badge)](https://ultraxas-xmd-verification.onrender.com)
 
 ---
 
-## 🔑 Get Session
+## 🌹 Get Session
 
 Easily generate a session for your bot with a single click:  
 [![Get Session](https://img.shields.io/badge/Get-Session-brightgreen?style=for-the-badge)](https://ultra-scanner.onrender.com)
 
 ---
 
-## 🎵 Interactive Web Experience
+##  Interactive Web Experience
 
 - **Instant Audio Playback:** As soon as you interact with the site, audio starts playing automatically.  
     [Listen/Stop](https://res.cloudinary.com/dptzpfgtm/video/upload/v1753887187/whatsapp_uploads/umv8wnwerbwyd5jkaaw2.mp3)
